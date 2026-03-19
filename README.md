@@ -1,8 +1,8 @@
 # 🥷 Ricardo Guaitolini
 
-**`Desenvolvedor FrontEnd em formação`**
+**`Desenvolvedor Python em formação`**
 
-Sou Ricardo Queiroz Guaitolini, tenho 19 anos e iniciei minha trajetória na área de tecnologia no Ensino Técnico em Informática para Internet pelo IFES, além de ter concluído o ensino médio por meio do ENCCEJA. Atualmente estou estudando para um vestibular na área de Engenharia de Software e me preparando para atuar como Desenvolvedor de Software, com foco em HTML, CSS e JavaScript, além de Git e GitHub. Sou dedicado, proativo e busco evoluir constantemente por meio de projetos práticos e aprendizado contínuo.
+Sou Ricardo Queiroz Guaitolini, tenho 20 anos e iniciei minha trajetória na área de tecnologia no Ensino Técnico em Informática para Internet pelo IFES. Atualmente estou cursando Sistemas de informação na UNESC, e me preparando para atuar como Desenvolvedor, com foco em Python, tenho um conhecimento em SQL, HTML, CSS e Javasript. Busco evoluir constantemente por meio de projetos práticos e aprendizado contínuo.
 
 <p align="left">
     <a href="https://github.com/rricardoqg?tab=repositories&sort=stargazers">
@@ -21,7 +21,9 @@ Sou Ricardo Queiroz Guaitolini, tenho 19 anos e iniciei minha trajetória na ár
     </a>
 </p>
 
+
 ---
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -65,13 +67,24 @@ Sou Ricardo Queiroz Guaitolini, tenho 19 anos e iniciei minha trajetória na ár
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Sql" 
+    title="Sql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/fluency/48/sql.png" 
+/>
 
+<br>
 
 ---
 
 
+
 ### Estatísticas 📊
 
+---
 <p>
   <img 
     align="left" 
@@ -91,7 +104,6 @@ Sou Ricardo Queiroz Guaitolini, tenho 19 anos e iniciei minha trajetória na ár
 </p>
 <br>
 <br>
-
 
 
 
