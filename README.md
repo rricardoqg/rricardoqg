@@ -66,6 +66,8 @@ Sou Ricardo Queiroz Guaitolini, tenho 19 anos e iniciei minha trajetória na ár
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+---
+
 ### Estatísticas 📊
 
 <p>
